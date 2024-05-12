@@ -6,4 +6,4 @@ An toolbox with random stuff
 
 ## Other:
 - Report bugs using issues tab
-- Suggest ideas at my discord server OR DMs
+- Suggest ideas at my discord server or dms
