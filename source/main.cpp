@@ -11,7 +11,8 @@ int main()
 		std::cout << "\033[2J\033[1;1H"; // Clear terminal after input
 
 		std::cout << "Write number to select thing that will run or write 0 to exit:\n"
-<< "1. Calculator\n";
+<< "1. Calculator\n"
+<< "2. Random number generator\n";
 		std::cin >> input;
 		std::cout << "\033[2J\033[1;1H"; // Clear terminal after input
 
@@ -24,6 +25,9 @@ int main()
 		// Calculator
 		case 1:
 			utilities::calculator();
+			break;
+		case 2:
+			utilities::randomnum();
 			break;
 		}
 	}

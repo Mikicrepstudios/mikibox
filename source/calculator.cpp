@@ -10,7 +10,7 @@ namespace utilities {
 
 		while(running) {
 			// Getting numbers
-        	std::cout << "Input your first number: ";
+	        	std::cout << "Input your first number: ";
 			std::cin >> input1;
 
 			std::cout << "Input your second number: ";
