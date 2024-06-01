@@ -3,6 +3,7 @@ An toolbox with random stuff
 
 ## Contains:
 - Calculator
+- Random number generator
 
 ## Other:
 - Report bugs using issues tab
